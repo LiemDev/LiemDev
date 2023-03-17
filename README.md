@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my software development skills.<br>👯 I’m looking to collaborate on large projects.<br>🤝 I’m looking for help with everything I can.<br>🌱 I’m currently learning PHP<br>💬 Ask me for help!<br>
+🔭 I’m currently working on my software development skills.<br>👯 I’m looking to collaborate on large projects.<br>🤝 I’m looking to help with everything I can.<br>🌱 I’m currently learning PHP<br>💬 Ask me for help!<br>
 
 
 ## 🌐 Socials:

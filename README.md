@@ -1,89 +1,79 @@
-# 👋 Hi, ich bin Nico Flury
+# 👋 Hi, ich bin Liem Dev
 
-Ich bin ein junger, engagierter Entwickler aus der Schweiz 🇨🇭 mit Fokus auf moderne Web- und Appentwicklung. Ich liebe es, durchdachte Projekte mit echtem Nutzen zu gestalten – von Dart-Turnieren bis hin zu kleinen Webshops. ✨
-
----
-
-## 🚀 Projekte, auf die ich stolz bin
-
-### 🎯 **Dart Turnierplattform**
-> Eine professionelle Plattform zur Verwaltung von Dartturnieren (Web & Mobile)  
-> Next.js · React Native · Supabase · Tailwind CSS
-
-- Turnierstruktur selbst definieren (1v1, 2v2, Sudden Death etc.)
-- Live-Scoring mit Double Out, Checkout, Averages, Leg-Verlauf
-- Benutzerverwaltung, Team-System, Adminbereich
-- Supabase als flexibles Realtime-Backend
-
-### 🍪 **Gretel Gutzi – Leckerchen Webshop**
-> Webshop für Kekse & Snacks mit Adminbereich  
-> Next.js · Supabase · Stripe · Tailwind CSS
-
-- Gastbestellungen, Barzahlung, PayPal, Stripe
-- Adminpanel mit Produkt- & Bestellverwaltung
-- Abholung & Multiuser-Unterstützung
+Ich bin ein junger Entwickler aus der Schweiz 🇨🇭 mit Fokus auf moderne und durchdachte Softwarelösungen. Aktuell arbeite ich an mehreren Projekten, die sowohl technische Tiefe als auch sauberes UI-Design kombinieren.
 
 ---
 
-## 🧰 Kleinere Projekte
+## 🚀 Aktuelle Projekte
 
-| Projekt                 | Tech Stack                             |
-|------------------------|-----------------------------------------|
-| ✅ To-Do-List          | JavaScript, HTML5, CSS3                |
-| 📚 Antiquariat         | PHP, HTML5, CSS3                        |
-| ❓ Guess the Number    | Windows Batch                           |
-| 🔢 Even/Odd Checker    | Windows Batch                           |
-| ✂️ Stein-Schere-Papier | Python                                  |
-| 🐍 Snake Game          | JavaScript, HTML5                       |
-| ☁️ NickelCloud         | PHP, HTML5, CSS3                        |
+### 🎯 **Dart-Turnierplattform**
+> Mobile App zur Verwaltung von Dart-Turnieren – ursprünglich in Flutter entwickelt, wird aktuell als Web- & Desktop-Version in Next.js neu aufgebaut.  
+> **Tech:** Flutter · Dart → Rewrite in: Next.js · Supabase · Tailwind CSS
 
----
+- Flexible Turnierstruktur (1v1, 2v2, Sudden Death etc.)
+- Benutzer- und Teamverwaltung
+- Live-Scoring mit Double Out, Checkout, Averages
+- Datenverwaltung via Supabase
 
-## 🧠 Mein Stack
+### 🍪 **Leckerchen-Webshop**
+> Webshop für Guetzli & Snacks mit Adminpanel und mehreren Zahlungsarten  
+> **Tech:** Next.js · Supabase · Stripe · Tailwind CSS
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26?logo=html5&logoColor=white&style=flat)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6?logo=css3&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330?logo=javascript&logoColor=%23F7DF1E&style=flat)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?logo=typescript&logoColor=white&style=flat)  
-![React](https://img.shields.io/badge/react-%2320232a?logo=react&logoColor=%2361DAFB&style=flat)  
-![Next.js](https://img.shields.io/badge/next.js-%23000000?logo=nextdotjs&logoColor=white&style=flat)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC?logo=tailwind-css&logoColor=white&style=flat)  
-![Flutter](https://img.shields.io/badge/flutter-%2302569B?logo=flutter&logoColor=white&style=flat)  
-![Dart](https://img.shields.io/badge/dart-%230175C2?logo=dart&logoColor=white&style=flat)
-
-**Backend & DB**  
-![PHP](https://img.shields.io/badge/php-%23777BB4?logo=php&logoColor=white&style=flat)  
-![Python](https://img.shields.io/badge/python-%233670A0?logo=python&logoColor=%23ffdd54&style=flat)  
-![MySQL](https://img.shields.io/badge/mysql-%2300f?logo=mysql&logoColor=white&style=flat)  
-![Supabase](https://img.shields.io/badge/supabase-%23000000?logo=supabase&logoColor=white&style=flat)
-
-**Tools**  
-![Git](https://img.shields.io/badge/git-%23F05033?logo=git&logoColor=white&style=flat)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E?logo=figma&logoColor=white&style=flat)
+- Gastbestellungen & Barzahlung
+- Produktverwaltung und Statusfilter im Adminbereich
+- Stripe- und PayPal-Integration
 
 ---
 
-## 🔗 Kontakt & Links
+## 🧰 Weitere Projekte
 
-- 📫 E-Mail: [nicoflury@icloud.com](mailto:nicoflury@icloud.com)
-- 🌐 Portfolio: [nico-flury.dev](https://nico-flury.dev)
-- 🧠 Projekte live ansehen: [GitHub Repo Übersicht](https://github.com/LiemDev?tab=repositories)
+| Projekt                 | Beschreibung                                 | Technologien                     |
+|------------------------|----------------------------------------------|----------------------------------|
+| To-Do-List             | Einfache Aufgabenverwaltung                   | JavaScript, HTML, CSS           |
+| Antiquariat            | Buchverwaltungssystem                        | PHP, HTML, CSS                  |
+| Guess the Number       | Terminal-Zahlenspiel                         | Windows Batch                   |
+| Even/Odd Checker       | Prüft gerade/ungerade Zahlen im Terminal     | Windows Batch                   |
+| Stein-Schere-Papier    | Spiel gegen den Computer                     | Python                          |
+| Snake Game             | Klassisches Snake mit Canvas                 | JavaScript, HTML                |
+| NickelCloud            | Einfaches Dashboard                          | PHP, HTML, CSS                  |
+
+---
+
+## 🧠 Tech Stack
+
+### 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+### 🛠️ Backend & Datenbanken
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+### ⚙️ Tools & Design
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Nico Flury's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LiemDev&show_icons=true&theme=nightowl)  
+![LiemDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LiemDev&show_icons=true&theme=nightowl)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LiemDev&theme=nightowl)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiemDev&layout=compact&theme=nightowl)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LiemDev&layout=compact&theme=nightowl)
 
 ---
 
-## 🏆 GitHub Trophies
+## 📫 Kontakt
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=LiemDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 📧 E-Mail: [nicoflury@icloud.com](mailto:nicoflury@icloud.com)
 
----
-
-> Made with ❤️ by LiemDev
+> Dieses Profil wird laufend erweitert – Feedback und Kollaborationen sind jederzeit willkommen!
